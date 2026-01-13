@@ -11,8 +11,7 @@ I analyzed Meta Ads performance (creative + audience + placement) and the acquis
 
 > Note: Some underlying data is not shareable; visuals are provided via screenshots/exports.
 
-<!-- Replace the filename below with one of your uploaded assets -->
-![](assets/MR1.png)
+![](assets/01-aquisition-funnel-report.png)
 
 ---
 
@@ -29,12 +28,12 @@ I analyzed Meta Ads performance (creative + audience + placement) and the acquis
 2) Creative & placement evaluation (identify early “winners” and underfunded segments).
 3) Funnel analysis to locate conversion bottlenecks after install/registration.
 
+![](assets/04-meta-report.png)
+
 ### Optimization principle used
 Meta’s algorithm learns from conversion signals. Optimizing too high in the funnel (e.g., clicks/installs) can buy cheap but low-intent users; optimizing toward meaningful signals aligns spend with business outcomes. Stability improves with sufficient weekly conversion events and avoiding frequent “significant edits” that reset learning.
 
 ## Key Findings
-
-![](assets/MR2.png) 
 
 ### 1) Install + registration efficiency improved
 - CPI reached **€5.63** (best YTD), indicating improved install efficiency.
@@ -47,12 +46,14 @@ Meta’s algorithm learns from conversion signals. Optimizing too high in the fu
   - CPR €26.19
 - Interpreted as directional; requires more volume for confidence.
 
-### 3) Onboarding became the bottleneck
+![](assets/02-campaign-report.png)
 
-![](assets/OF1.png) 
+### 3) Onboarding became the bottleneck
 
 - Funnel performance weakened: only **~39%** completed onboarding in the referenced period.
 - Biggest losses were in specific onboarding steps.
+
+![](assets/06-onboarding-funnel-report.png)
 
 ## Recommendations (What I would do next week)
 - Keep optimizing toward meaningful conversion signals (avoid “cheap” upper-funnel-only optimization).
