@@ -1,4 +1,4 @@
-# Meta Ads Growth Analytics Case Study (Marketplace) — Week 4
+# Meta Ads Growth Analytics - Case Study
 
 ## Executive Summary
 I analyzed Meta Ads performance (creative + audience + placement) and the acquisition funnel (ad view → click → install → registration → onboarding completion) to guide weekly budget and optimization decisions.
@@ -60,10 +60,9 @@ Meta’s algorithm learns from conversion signals. Optimizing too high in the fu
 - Continue/scale the placement test cautiously while monitoring stability for 1–2 more weeks.
 - Prioritize onboarding fixes on the highest drop-off steps before scaling spend further.
 
-## Artifacts
-- `Marketing Report W4 2025.pdf` (export)
-- `Onboarding funnel Week 5.pdf` (export)
-- `Meta Ads Ultimate Guide.docx` (optimization notes / methodology)
+## Artifacts (Exports)
+- [Marketing report (PDF)](artifacts/marketing-report.pdf)
+- [Onboarding funnel (PDF)](artifacts/onboarding-funnel.pdf)
 
 ## Limitations
 - Some data and dashboards cannot be shared publicly.
