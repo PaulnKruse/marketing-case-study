@@ -33,6 +33,9 @@ I analyzed Meta Ads performance (creative + audience + placement) and the acquis
 Meta’s algorithm learns from conversion signals. Optimizing too high in the funnel (e.g., clicks/installs) can buy cheap but low-intent users; optimizing toward meaningful signals aligns spend with business outcomes. Stability improves with sufficient weekly conversion events and avoiding frequent “significant edits” that reset learning.
 
 ## Key Findings
+
+![](assets/MR2.png) 
+
 ### 1) Install + registration efficiency improved
 - CPI reached **€5.63** (best YTD), indicating improved install efficiency.
 - CPR improved to **€30.65**, despite onboarding weakness.
@@ -45,8 +48,11 @@ Meta’s algorithm learns from conversion signals. Optimizing too high in the fu
 - Interpreted as directional; requires more volume for confidence.
 
 ### 3) Onboarding became the bottleneck
+
+![](assets/OF1.png) 
+
 - Funnel performance weakened: only **~39%** completed onboarding in the referenced period.
-- Biggest losses were in specific onboarding steps (medical/mental steps were notably weak).
+- Biggest losses were in specific onboarding steps.
 
 ## Recommendations (What I would do next week)
 - Keep optimizing toward meaningful conversion signals (avoid “cheap” upper-funnel-only optimization).
